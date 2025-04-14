@@ -1,0 +1,16 @@
+# Ignore model files, cache, and unnecessary folders
+*.pt
+__pycache__/
+*.pyc
+
+# Ignore Jupyter/Colab metadata
+.ipynb_checkpoints/
+
+# If you add frontend later
+node_modules/
+build/
+
+# Misc
+.env
+.DS_Store
+uploads/
