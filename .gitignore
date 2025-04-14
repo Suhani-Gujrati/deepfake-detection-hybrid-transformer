@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pt
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+
+# React
+node_modules/
+build/
+
+# General
+.DS_Store
+.env
+uploads/
